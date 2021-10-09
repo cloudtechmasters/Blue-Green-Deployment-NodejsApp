@@ -17,7 +17,7 @@ spec:
         version: v2
     spec:
       containers:
-      - name: nodejs-blue
+      - name: nodejs-green
         image: cloudtechmasters/node-web-app:v2
         ports:
         - containerPort: 8080
